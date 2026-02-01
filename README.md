@@ -4,6 +4,10 @@ A production-style frontend observability dashboard built with React. The applic
 
 This project is intentionally designed as an internal engineering tool, not a UI demo.
 
+# Live Demo
+
+https://frontend-observability-dashboard.netlify.app/
+
 ## Features
 
 ### Live Metrics Simulation
