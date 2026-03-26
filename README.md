@@ -120,11 +120,11 @@ Protected Routes (React Router)
 
 ### 🔐 Login
 
-![Login](./screenshots/login.png)
+![Login](./src/screenshots/login.png)
 
 ### 📊 Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./src/screenshots/dashboard.png)
 
 ---
 
